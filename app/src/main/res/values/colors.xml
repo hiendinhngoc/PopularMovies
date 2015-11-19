@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_title_film">#3E9186</color>
+    <color name="title_film">#FEFEFE</color>
+    <color name="background_btn_favourite">#9ADFD9</color>
+</resources>
